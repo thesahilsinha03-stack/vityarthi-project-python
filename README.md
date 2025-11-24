@@ -1,7 +1,7 @@
 Expense Tracker
 Expense Tracker is a Python application designed to help users keep track of their daily expenses. It provides a simple and intuitive interface for recording expenses, categorizing them, and viewing summaries based on categories.
 
-🛠️ Description
+Description
 Add Expense: Users can input the date, amount, and category of their expenses. The expenses are stored and categorized for future reference.
 
 Add Category: Users can create new categories to classify their expenses, ensuring a customized tracking experience.
@@ -31,10 +31,10 @@ The application will display a list of available categories.
 Exit:
 
 Select option 5 from the menu to exit the Expense Tracker application.
-⚙️ Languages or Frameworks Used
+Languages or Frameworks Used
 This application requires Python to run. No external libraries are used, making it easy to set up and run on any system with Python installed.
 
-🌟 How to run
+ How to run
 Ensure you have Python installed on your system.
 
 Download the expense_tracker.py file from this repository.
@@ -46,7 +46,4 @@ Run the following command:
 python expense_tracker.py
 
 
-📝 Acknowledgments
-Python
-VS Code
 GitHub# vityarthi-project-python
